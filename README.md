@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:lugashartanto@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/lugas-h-304a5b24b/" target="_blank">
@@ -58,14 +58,21 @@
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=lugasHartanto&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=lugasHartanto&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lugasHartanto&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=lugasHartanto&theme=tokyonight&layout=donut&langs_count=6&border_radius=10" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lugasHartanto&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lugasHartanto&theme=tokyonight&utcOffset=7" alt="Productive Time" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lugasHartanto&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lugasHartanto&theme=tokyonight" alt="Top Languages by Commit" />
 </div>
 
 <hr>
